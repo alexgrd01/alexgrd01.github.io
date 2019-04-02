@@ -925,7 +925,7 @@ body.offcanvas .colorlib-nav-toggle {
   display: table-cell;
   vertical-align: middle;
   color: #ccac00;
-  font-size: 100px;
+  font-size: 50px;
   height: 100px;
 }
 @media screen and (max-width: 1200px) {
