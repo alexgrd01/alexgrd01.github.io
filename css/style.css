@@ -535,6 +535,11 @@ body.offcanvas .colorlib-nav-toggle {
   width: 95%;
   height: 550px;
 }
+@media screen and (max-width: 480px) {
+  .about-img {
+    height: 300px;
+  }
+}
 .about-img .about-img-2 {
   width: 70% !important;
   height: 410px;
