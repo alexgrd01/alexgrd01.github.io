@@ -1566,3 +1566,8 @@ body.offcanvas .colorlib-nav-toggle {
   text-decoration: none;
   cursor: pointer;
 }
+@media screen and (max-width: 480px) {
+  .modal {
+    top: 5%;
+  }
+}
