@@ -335,7 +335,7 @@ figure figcaption {
   margin-bottom: 10px;
 }
 #colorlib-hero .flexslider .flex-control-nav li a {
-  background: rgba(3, 3, 3, 0.18);
+  background: rgba(255, 255, 255, 0.753);
   -webkit-box-shadow: none;
   box-shadow: none;
   width: 12px;
@@ -344,7 +344,7 @@ figure figcaption {
 }
 #colorlib-hero .flexslider .flex-control-nav li a.flex-active {
   cursor: pointer;
-  background: #000;
+  background: rgb(0, 0, 0);
   border: 2px solid #ccac00;
 }
 #colorlib-hero .flexslider .flex-direction-nav {
